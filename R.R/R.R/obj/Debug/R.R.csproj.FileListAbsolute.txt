@@ -1,0 +1,55 @@
+C:\Users\MET\Desktop\R.R\R.R\bin\Debug\R.R.exe.config
+C:\Users\MET\Desktop\R.R\R.R\bin\Debug\R.R.exe
+C:\Users\MET\Desktop\R.R\R.R\bin\Debug\R.R.pdb
+C:\Users\MET\Desktop\R.R\R.R\obj\Debug\R.R.csprojResolveAssemblyReference.cache
+C:\Users\MET\Desktop\R.R\R.R\obj\Debug\R.R.Form1.resources
+C:\Users\MET\Desktop\R.R\R.R\obj\Debug\R.R.Properties.Resources.resources
+C:\Users\MET\Desktop\R.R\R.R\obj\Debug\R.R.csproj.GenerateResource.Cache
+C:\Users\MET\Desktop\R.R\R.R\obj\Debug\R.R.exe
+C:\Users\MET\Desktop\R.R\R.R\obj\Debug\R.R.pdb
+C:\Users\Ehab\Desktop\R.R\R.R\bin\Debug\R.R.exe.config
+C:\Users\Ehab\Desktop\R.R\R.R\obj\Debug\R.R.exe
+C:\Users\Ehab\Desktop\R.R\R.R\obj\Debug\R.R.pdb
+C:\Users\Ehab\Desktop\R.R\R.R\bin\Debug\R.R.exe
+C:\Users\Ehab\Desktop\R.R\R.R\bin\Debug\R.R.pdb
+C:\Users\Ehab\Desktop\R.R\R.R\obj\Debug\R.R.csprojResolveAssemblyReference.cache
+C:\Users\Ehab\Desktop\R.R\R.R\obj\Debug\R.R.Form1.resources
+C:\Users\Ehab\Desktop\R.R\R.R\obj\Debug\R.R.Properties.Resources.resources
+C:\Users\Ehab\Desktop\R.R\R.R\obj\Debug\R.R.csproj.GenerateResource.Cache
+C:\Users\Esraa\Desktop\simulation\R.R\R.R\bin\Debug\R.R.exe.config
+C:\Users\Esraa\Desktop\simulation\R.R\R.R\obj\Debug\R.R.exe
+C:\Users\Esraa\Desktop\simulation\R.R\R.R\obj\Debug\R.R.pdb
+C:\Users\Esraa\Desktop\simulation\R.R\R.R\bin\Debug\R.R.exe
+C:\Users\Esraa\Desktop\simulation\R.R\R.R\bin\Debug\R.R.pdb
+C:\Users\Esraa\Desktop\simulation\R.R\R.R\obj\Debug\R.R.csprojResolveAssemblyReference.cache
+C:\Users\Esraa\Desktop\simulation\R.R\R.R\obj\Debug\R.R.Form1.resources
+C:\Users\Esraa\Desktop\simulation\R.R\R.R\obj\Debug\R.R.Properties.Resources.resources
+C:\Users\Esraa\Desktop\simulation\R.R\R.R\obj\Debug\R.R.csproj.GenerateResource.Cache
+D:\kolya\sana3\1\Operating systems\simulation\R.R\R.R\bin\Debug\R.R.exe.config
+D:\kolya\sana3\1\Operating systems\simulation\R.R\R.R\obj\Debug\R.R.exe
+D:\kolya\sana3\1\Operating systems\simulation\R.R\R.R\obj\Debug\R.R.pdb
+D:\kolya\sana3\1\Operating systems\simulation\R.R\R.R\bin\Debug\R.R.exe
+D:\kolya\sana3\1\Operating systems\simulation\R.R\R.R\bin\Debug\R.R.pdb
+D:\kolya\sana3\1\Operating systems\simulation\R.R\R.R\obj\Debug\R.R.csprojResolveAssemblyReference.cache
+D:\kolya\sana3\1\Operating systems\simulation\R.R\R.R\obj\Debug\R.R.Form1.resources
+D:\kolya\sana3\1\Operating systems\simulation\R.R\R.R\obj\Debug\R.R.Properties.Resources.resources
+D:\kolya\sana3\1\Operating systems\simulation\R.R\R.R\obj\Debug\R.R.csproj.GenerateResource.Cache
+C:\Users\top\Desktop\linux\New folder\simulation\R.R\R.R\bin\Debug\R.R.exe.config
+C:\Users\top\Desktop\linux\New folder\simulation\R.R\R.R\obj\Debug\R.R.exe
+C:\Users\top\Desktop\linux\New folder\simulation\R.R\R.R\obj\Debug\R.R.pdb
+C:\Users\top\Desktop\linux\New folder\simulation\R.R\R.R\bin\Debug\R.R.exe
+C:\Users\top\Desktop\linux\New folder\simulation\R.R\R.R\bin\Debug\R.R.pdb
+C:\Users\top\Desktop\linux\New folder\simulation\R.R\R.R\obj\Debug\R.R.csprojResolveAssemblyReference.cache
+C:\Users\top\Desktop\linux\New folder\simulation\R.R\R.R\obj\Debug\R.R.Form1.resources
+C:\Users\top\Desktop\linux\New folder\simulation\R.R\R.R\obj\Debug\R.R.Properties.Resources.resources
+C:\Users\top\Desktop\linux\New folder\simulation\R.R\R.R\obj\Debug\R.R.csproj.GenerateResource.Cache
+D:\collegue\CS.3\semester.1\Operating System\عملى\R.R\R.R\bin\Debug\R.R.exe.config
+D:\collegue\CS.3\semester.1\Operating System\عملى\R.R\R.R\bin\Debug\R.R.exe
+D:\collegue\CS.3\semester.1\Operating System\عملى\R.R\R.R\bin\Debug\R.R.pdb
+D:\collegue\CS.3\semester.1\Operating System\عملى\R.R\R.R\obj\Debug\R.R.csproj.AssemblyReference.cache
+D:\collegue\CS.3\semester.1\Operating System\عملى\R.R\R.R\obj\Debug\R.R.Form1.resources
+D:\collegue\CS.3\semester.1\Operating System\عملى\R.R\R.R\obj\Debug\R.R.Properties.Resources.resources
+D:\collegue\CS.3\semester.1\Operating System\عملى\R.R\R.R\obj\Debug\R.R.csproj.GenerateResource.cache
+D:\collegue\CS.3\semester.1\Operating System\عملى\R.R\R.R\obj\Debug\R.R.csproj.CoreCompileInputs.cache
+D:\collegue\CS.3\semester.1\Operating System\عملى\R.R\R.R\obj\Debug\R.R.exe
+D:\collegue\CS.3\semester.1\Operating System\عملى\R.R\R.R\obj\Debug\R.R.pdb
